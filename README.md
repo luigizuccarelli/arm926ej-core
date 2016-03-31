@@ -8,6 +8,7 @@
      * 4Gb nand flash 
      * 512MB ddr ram
      * 10/100 ethernet onboard
+     * 16 GPIO pins
    
    * Four sided through hole plated pcb
    * No design files are uploaded - waiting for pcb verification and manufacturing for QA
