@@ -6,7 +6,7 @@
    * The object of this design is to build a minimal linux based som
    * Features
      * Using the AT91SAM9G25 cpu from Atmel
-     * 4Gb nand flash 
+     * 4GB nand flash 
      * 512MB ddr ram
      * 10/100 ethernet onboard
      * 16 GPIO pins
